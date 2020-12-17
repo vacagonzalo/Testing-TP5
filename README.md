@@ -13,7 +13,7 @@ Alumno: Ing. Gonzalo Nahuel Vaca
 ## Instrucciones para replicar las pruebas
 * Tener los requisitos satisfechos
 * clonar/descargar este repositorio
-* dar permisos de ejecución a *test.sh* (chmod +x test.sh)
+* generar los certificados según el instructivo en **linkTutorial.txt**
 * colocar la dirección correcta del broker en *test.sh*
 * configurar su broker de elección con los certificados provistos
 * correr el comando **shunit2 ./test.sh**
